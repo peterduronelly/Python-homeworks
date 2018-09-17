@@ -1,3 +1,1 @@
-v1
-v2
-adding new lines
+These are homework assignments for the 3-credit Scientific Python course on the Central European University in the fall trimester of 2017. 
